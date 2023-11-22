@@ -1,0 +1,36 @@
+body{
+    background:lightgray;
+    margin:auto;
+}
+header{
+    text-align:center;
+    background:white;
+}
+header h1 {
+    margin:0;
+}
+div.todos {
+    background:white;
+width: 600px;px;
+margin:auto;
+margin: top 25px;}
+
+div.todos img {
+    width:100%
+}
+
+div.firstpart {
+    display:flex;
+}
+
+div.firstpart h2 {
+    padding-right: 320px;
+}
+
+div.firstpart span {
+    padding-top: 25px;
+    color:lightgray
+}
+
+div.espacio {background:lightgray;
+height:30px}
